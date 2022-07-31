@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @jrymk
-- 👀 I’m interested in portable synthesizers
-- 🌱 I’m currently building my own Teensy based Teenage Engineering OP-1-like synthesizer ([jrymk/gruv](https://github.com/jrymk/gruv))
+Pinned repo is what I am currently working on, in priority and recentness order.
